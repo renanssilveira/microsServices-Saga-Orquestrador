@@ -1,8 +1,9 @@
 package br.com.microservices.orchestrated.paymentservice.core.dto;
 
 
-import br.com.microservices.orchestrated.productvalidationservice.core.enums.ESagaStatus;
 import java.time.LocalDateTime;
+
+import br.com.microservices.orchestrated.paymentservice.core.enums.ESagaStatus;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

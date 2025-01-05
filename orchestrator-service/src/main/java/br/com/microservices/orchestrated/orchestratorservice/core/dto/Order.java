@@ -1,7 +1,6 @@
 package br.com.microservices.orchestrated.orchestratorservice.core.dto;
 
 
-import br.com.microservices.orchestrated.orderservice.core.document.OrderProducts;
 import java.time.LocalDateTime;
 import java.util.List;
 import lombok.AllArgsConstructor;
